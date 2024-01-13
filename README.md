@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre]
+# ¡Hola! Soy [Jorge Tejero]
 
 Soy un apasionado desarrollador frontend con experiencia en tecnologías modernas como React y JavaScript. Mi enfoque se centra en la creación de experiencias de usuario intuitivas y atractivas.
 
@@ -31,13 +31,13 @@ Estoy constantemente mejorando mis habilidades y explorando nuevas tecnologías.
 
 ## 📫 Cómo Contactarme
 
-- Correo Electrónico: tu@email.com
+- Correo Electrónico: jorgetley1995@gmail.com
 - LinkedIn: [Tu Perfil de LinkedIn]
-- Twitter: [@tuusuario](https://twitter.com/tuusuario)
+- Twitter: [@jtejero8](https://twitter.com/tuusuario)
 
 ## ⚡ Datos Rápidos
 
 - **Idiomas:** Español (Nativo), Inglés (Competencia Profesional)
-- **Ubicación:** Ciudad, País
+- **Ubicación:** Madrid, España
 
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis proyectos y contactarme para colaboraciones o discusiones técnicas.
