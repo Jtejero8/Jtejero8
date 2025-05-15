@@ -40,6 +40,6 @@ Estoy constantemente mejorando mis habilidades y explorando nuevas tecnologías.
 ## ⚡ Datos Rápidos
 
 - **Idiomas:** Español (Nativo), Inglés (Competencia Profesional)
-- **Ubicación:** Madrid, España
+- **Ubicación:** Lugo, España
 
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis proyectos y contactarme para colaboraciones o discusiones técnicas.
